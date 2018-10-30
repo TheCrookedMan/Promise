@@ -1,0 +1,23 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "重复轮子\u001b[D\u001b[D\u001b\u001b[C\u001b[C\u001b[C\u001b轮子",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCrookedMan/Promise.git"
+  },
+  "keywords": [
+    "promise",
+    "javascript"
+  ],
+  "author": "thecrookedman@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCrookedMan/Promise/issues"
+  },
+  "homepage": "https://github.com/TheCrookedMan/Promise#readme"
+}
